@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cucumberautocomplete.steps": [
+        "src/test/java/steps/LoginStepDefinition.java"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true
+}
